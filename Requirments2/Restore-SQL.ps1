@@ -1,4 +1,4 @@
-# Ryan Furman 012240009
+# XXX XXXXX
 
 try {
     $sqlServerInstanceName = "SRV19-PRIMARY\SQLEXPRESS"
